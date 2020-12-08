@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/lexiddie/lex-fourth",
   "name": "lex-fourth",
   "version": "1.0.0",
   "description": "",
@@ -14,6 +15,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lexiddie/lex-fourth/issues"
-  },
-  "homepage": "https://github.com/lexiddie/lex-fourth#"
+  }
 }
